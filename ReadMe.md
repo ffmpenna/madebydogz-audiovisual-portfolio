@@ -38,9 +38,9 @@ Nosso trabalho se inspira na estética **street**, com influências de:
 
 | Projeto | Artista | Ano | Link |
 |---------|---------|-----|------|
-| `Bairro no Sangue` | MC X | 2024 | [YouTube](#) |
-| `Fumaça na Calçada` | TrapBoy Y | 2024 | [YouTube](#) |
-| `Ruas Frias` | Crew Z | 2023 | [YouTube](#) |
+| `Projeto 1` | X | 2024 | [YouTube](#) |
+| `Projeto 2` | Y | 2024 | [YouTube](#) |
+| `Projeto 3` | Z | 2023 | [YouTube](#) |
 
 *(mais trabalhos disponíveis sob consulta)*
 
